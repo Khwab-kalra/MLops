@@ -1,7 +1,7 @@
 # MLOps Documentation
 ## 1. Introduction
 
-Machine Learning Operations, or MLOps, is a set of practices and tools that combine machine learning (ML) system development and operations to enhance collaboration and communication between data science and operations teams. MLOps aims to automate and streamline the end-to-end ML lifecycle, from data preparation and model development to deployment and monitoring.
+Machine Learning Operations, or MLOps, is a set of practices and tools that combine machine learning (ML) system development and operations to enhance collaboration and communication between data science and operations teams. The goal of MLOps is to fully automate and streamline the ML lifecycle, from model building and data preparation to deployment and monitoring.
 
 ## 2. What is MLOps?
 
