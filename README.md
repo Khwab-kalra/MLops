@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. [Introduction](MLops.md#introduction)
+1. [Introduction](ML-ops.md#introduction)
 2. [What is MLOps?](#what-is-mlops)
 3. [Why MLOps?](#why-mlops)
 4. [Key Components of MLOps](#key-components-of-mlops)
