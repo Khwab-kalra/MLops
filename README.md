@@ -1,2 +1,2 @@
 # MLops
-An introduction
+An introductory blog.
