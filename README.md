@@ -1,4 +1,5 @@
 # MLOps Documentation
+![MLOps](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.fKK7VP0wYJYdFtSyr8ifagHaEI%26pid%3DApi&f=1&ipt=7987ef33d89f09d18c34e499457817d78d3af2bf8f78b925688433e82ca37746&ipo=images)
 
 ## Table of Contents
 
